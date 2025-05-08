@@ -1,0 +1,52 @@
+# Liam-Boulat
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Liam Boulat, comédien passionné. Découvrez ses photos, bande démo et contactez-le pour des projets professionnels." />
+  <title>Liam Boulat - Comédien</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Liam Boulat</h1>
+    <p>Comédien</p>
+  </header>
+
+  <section id="presentation">
+    <h2>Présentation</h2>
+    <p>Je suis un comédien passionné, formé et actif sur scène comme à l’écran. Mon accent de banlieue, que je revendique, est une force que j’exploite dans mes rôles. Je parle aussi darija marocain, ce qui me permet d’élargir ma palette de jeu.</p>
+  </section>
+
+  <section id="photos">
+    <h2>Photos</h2>
+    <div class="gallery">
+      <img src="photo1.jpg" alt="Portrait de Liam Boulat souriant" loading="lazy" />
+      <img src="photo2.jpg" alt="Portrait sérieux de Liam Boulat" loading="lazy" />
+      <img src="photo3.jpg" alt="Liam Boulat sur scène pendant une représentation" loading="lazy" />
+    </div>
+  </section>
+
+  <section id="video">
+    <h2>Bande Démo</h2>
+    <div class="video-container">
+      <iframe src="https://www.youtube.com/embed/TON_ID_VIDEO" frameborder="0" allowfullscreen title="Bande démo Liam Boulat"></iframe>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Pour toute demande professionnelle, merci de me contacter à l’adresse suivante :</p>
+    <p><a href="mailto:liam.boulat@email.com">liam.boulat@email.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Liam Boulat. Tous droits réservés.</p>
+    <p>Retrouvez-moi sur : 
+      <a href="https://www.instagram.com/liam.boulat" target="_blank" rel="noopener noreferrer">Instagram</a> | 
+      <a href="https://www.linkedin.com/in/liam-boulat" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </p>
+  </footer>
+</body>
+</html>
